@@ -5,6 +5,7 @@ Structure example:
 assets/
   maliwatpy/
     logo.png
+    payment-qr.png
 
 At runtime, the app resolves paths via config.assetPath(relative).
 
